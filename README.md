@@ -8,4 +8,4 @@ Adafruit_GPIO.I2C
 Adafruit_Python_ADXL345
 DHT11_Python
 And finally the library Paho.mqtt.python to create the channel to post and suscribe to messages.
-The License of this Project belongs to the Technical University of Madrid (UPM-ETSII)
+The License of this Project belongs to the Technical University of Madrid (UPM-ETSII)-- Open Source
